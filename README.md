@@ -1,9 +1,9 @@
 # CipherSlash
 TODO:\
 Cipher Slash Overview:\
-  [ ] Server\
-    [w] Connection Handler\
-      [w] Send/Receive Data\
+  - [ ] Server\
+    - [w] Connection Handler\
+      - [w] Send/Receive Data\
     [ ] Login System\
   [ ] User Accounts\
     [ ] Username and Password\
